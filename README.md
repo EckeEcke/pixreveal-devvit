@@ -37,7 +37,7 @@ A full game takes about a minute.
 
 ## Development
 
-Built with [Devvit Web](https://developers.reddit.com/), [Vue 3](https://vuejs.org/), [Pinia](https://pinia.vuejs.org/), [Vite](https://vite.dev/), and [Hono](https://hono.dev/) for the backend, written in TypeScript.
+Built with [Devvit Web](https://developers.reddit.com/), [Vue3](https://vuejs.org/), [Pinia](https://pinia.vuejs.org/), [Vite](https://vite.dev/), and [Hono](https://hono.dev/) for the backend, written in TypeScript.
 
 Requires Node 24.
 
