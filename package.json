@@ -27,8 +27,8 @@
     "@vitejs/plugin-vue": "^6.0.10",
     "devvit": "^0.14.8",
     "hono": "4.13.13",
-    "pinia": "^4.0.3",
-    "vue": "^3.5.43"
+    "pinia": "^4.1.0",
+    "vue": "^3.5.44"
   },
   "devDependencies": {
     "@eslint/js": "10.0.1",
